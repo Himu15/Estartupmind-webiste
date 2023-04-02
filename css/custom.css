@@ -1,0 +1,44 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+ div .pricing-pric {
+	font-size: 4em;
+}
+/* Style the social media icons with color, if you want */
+.icon-bar-websys a:hover {
+  background-color: #000;
+}
+
+.phoneside {
+  background: #1569C7;
+  color: white;
+  padding: 5px 15px;
+  margin-left: 25px;
+}
+
+.emailside {
+  background: #FF5733;
+  color: white;
+  padding: 5px 15px;
+
+}
+
+.mapside {
+  background: #8A8C8B;
+  color: white;
+  padding: 5px 15px;
+}
+
+.whatsappside {
+  background: #25D366;
+  color: white;
+  padding: 5px 15px;
+
+}
+.whatsappside1 {
+  background: #25D366;
+  color: white;
+  padding: 20px 30px;
+  margin-left: 25px;
+  
+}
+
